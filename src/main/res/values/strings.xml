@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Panthers Baseball &amp; Softball</string>
+    <string name="title_home">Information</string>
+    <string name="title_news">News</string>
+    <string name="title_book">Fixtures &amp; Results</string>
+    <string name="title_contact">Contact</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="long_Text">
+
+        This This This This This This This This This This This This This This This This This This This
+        This This This This This This This This This This This This This This This This This This This
+
+        IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS
+        IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS IS
+
+        The The The The The The The The The The The The The The The The The The The The The The The The
+        The The The The The The The The The The The The The The The The The The The The The The The The
+
+        Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last
+        Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last Last
+
+        Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment
+        Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment Fragment
+
+
+    </string>
+
+    <string name="about">
+        Far curiosity incommode now led smallness allowance. Favour bed assure son things yet.
+        She consisted consulted elsewhere happiness disposing household any old the. Widow downs you new shade drift hopes small.
+        So otherwise commanded sweetness we improving. Instantly by daughters resembled unwilling principle so middleton.
+        Fail most room even gone her end like. Comparison dissimilar unpleasant six compliment two unpleasing any add.
+        Ashamed my company thought wishing colonel it prevent he in. Pretended residence are something far engrossed old off.
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
